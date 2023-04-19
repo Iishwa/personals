@@ -58,7 +58,7 @@
     <div class="row">
       <div class="col-lg-6 col-md-6 wow bounceInLeft" data-wow-delay="1s">
         <h1>President</h1>
-        <p class="wow fadeInUp" data-wow-delay="0.4"><font color="white">Ram Nath Kovind (born 1 October 1945) is the 14th and current<br> President of India, in office since 25 July 2017.[1] Previously <br>he had served as the Governor of Bihar from 2015 to 2017<br> and was a Member of Parliament, Rajya Sabha from 1994 to 2006.<br> Kovind was nominated as a presidential candidate<br> by the ruling NDA coalition and won the 2017 presidential election,<br> becoming the second Dalit to be elected to the post of President.</font></p>
+        <p class="wow fadeInUp" data-wow-delay="0.4"><font color="white">Ishwar Kumar (born 1 October 1945) is the 14th and current<br> President of India, in office since 25 July 2017.[1] Previously <br>he had served as the Governor of Bihar from 2015 to 2017<br> and was a Member of Parliament, Rajya Sabha from 1994 to 2006.<br> Kovind was nominated as a presidential candidate<br> by the ruling NDA coalition and won the 2017 presidential election,<br> becoming the second Dalit to be elected to the post of President.</font></p>
         <button class="btn btn-lg btn-primary">Buy Now</button>
         <button class="btn btn-lg btn-success">View Details</button>
 </div>
